@@ -6,7 +6,6 @@
     </tr>   
   </table>
 </center>
-## Social [🔝](#welcome-badges-4-readmemd-profile)
 
 Image | Uri
 ------------ | -------------
