@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Hi, my name is Matheus and a love well written code.
+  Hi, my name is Matheus and i love well written code.
 </p>
 
 <p align="center">
