@@ -13,7 +13,9 @@
 </p>
 </p>
 
-Hi, my name is Matheus and a love well written code. I live em Fortaleza/CE - Brasil =)
+<p align="center">
+  Hi, my name is Matheus and a love well written code.
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/37/1d/a0/371da0de6505296629c840f91413f1d0.gif" width="400">
