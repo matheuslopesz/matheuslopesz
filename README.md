@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Matheus Lopes!
 
-I work as a full stack developer with. Curretly working for KindBody, NYC based health company.
+I work as a full stack developer with react and ruby on rails. Curretly working for KindBody, NYC based health company.
 
 ### What I'm focusing on 👨‍💻
 
